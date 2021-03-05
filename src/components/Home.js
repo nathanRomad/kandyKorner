@@ -1,7 +1,7 @@
 import React from "react";
 import "./Home.css";
 
-export const HomeCard = ({ }) => (
+export const HomeCard = () => (
     <section className="home">
         <h2>Kandy Korner</h2>
         <small>...enjoy the little things!</small>
